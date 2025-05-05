@@ -124,7 +124,7 @@ body {
 
 
 .profile-pic {
-  width: 400px; /* Slightly smaller for better layout */
+  width: 350px; /* Slightly smaller for better layout */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
